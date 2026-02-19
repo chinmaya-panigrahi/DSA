@@ -1,8 +1,13 @@
+#include <iostream>
 #include "create_binary_tree.hpp"
 
 Node::Node(int data) : _data(data), _left(nullptr), _right(nullptr){}
 void Node::ShowData(){
-    cout<<_data<<" ";
+    std::cout<<_data<<" ";
+}
+
+int Node::GetData(){
+    return _data;
 }
 
 Node* Node::CreateBinaryTree(){
