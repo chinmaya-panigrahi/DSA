@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1771496816 source:c:\users\admin\dsa\create_binary_tree.cpp
+	<iostream>
+	"create_binary_tree.hpp"
+
+1771750259 c:\users\admin\dsa\create_binary_tree.hpp
+
+1771750295 source:c:\users\admin\dsa\main.cpp
+	"create_binary_tree.hpp"
+
+1771485383 source:c:\users\admin\dsa\pre_in_pos_in_one_traversl.cpp
+	<iostream>
+	<vector>
+	<stack>
+	"create_binary_tree.hpp"
+
+1771489272 source:c:\users\admin\dsa\bt-bst\level_order_traversal.cpp
+	<iostream>
+	<queue>
+	"../create_binary_tree.hpp"
+
+1771498561 source:c:\users\admin\dsa\max_depth_binary_tree.cpp
+	<iostream>
+	"create_binary_tree.hpp"
+
+1771498680 source:c:\users\admin\dsa\binary_tree_is_balanced.cpp
+	<iostream>
+	"create_binary_tree.hpp"
+
+1771574594 source:c:\users\admin\dsa\diameter_binary_tree.cpp
+	<iostream>
+	"create_binary_tree.hpp"
+
+1771557001 source:c:\users\admin\dsa\maximum_sum_path_in_binary_tree.cpp
+	<iostream>
+	<climits>
+	"create_binary_tree.hpp"
+
+1771575025 source:c:\users\admin\dsa\vertical_traversal_of_binary_tree.cpp
+	<iostream>
+	<map>
+	<vector>
+	<queue>
+	"create_binary_tree.hpp"
+
