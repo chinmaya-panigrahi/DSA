@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1772332793 source:c:\users\admin\dsa\dynamicprogramming\dynamic_programming.cpp
+	<vector>
+	"dynamic_programming.hpp"
+
+1772269626 c:\users\admin\dsa\dynamicprogramming\dynamic_programming.hpp
+
+1772331760 source:c:\users\admin\dsa\dynamicprogramming\main.cpp
+	<iostream>
+	"dynamic_programming.hpp"
+
